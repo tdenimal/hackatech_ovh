@@ -28,4 +28,4 @@ Folder scrap_data is mounted on the container as a shareable folder.
 
 ## To run extracts in parallel ( will use the list of companies available in companies_url.txt), use parallel_scrap.sh script.
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tdenimal/hackatech_ovh/master)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/tdenimal/hackatech_ovh/master?filepath=index.ipynb)
